@@ -1,0 +1,2 @@
+# sequelize-demo
+squelize-demo
